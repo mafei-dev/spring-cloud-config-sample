@@ -1,1 +1,1 @@
-# spring-colud-config-sample
+# spring-cloud-config-sample
